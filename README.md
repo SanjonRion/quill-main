@@ -1,6 +1,5 @@
 # Group 12 Main Project Front-End React + Vite & tailwind 
 
-
 fork this repo to your github then
 Make an empty folder and create a react vite project , then clone the forked repo into your local folder , use chatgpt to get steps
 
